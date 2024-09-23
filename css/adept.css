@@ -15,11 +15,11 @@ main {
 }
 
 aside {
-    background-color: #e46c0a;
+    background-color: #df4237;
 }
 
 main {
-    background-color: #2e9aff;
+    background-color: #ffffff;
 }
 
 @media screen and (min-width: 1400px) {
